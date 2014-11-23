@@ -20,8 +20,8 @@ o <activity> is the label of the activity, with possible values: LAYING, SITTING
 o <subject> is the subject identification with possible values: 1 to 30
 
 the observations are the means and standard deviations of the parameters or features of the accelerometers
-tBodyAcc-XYZ
-tGravityAcc-XYZ
+o tBodyAcc-XYZ
+o tGravityAcc-XYZ
 tBodyAccJerk-XYZ
 tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
